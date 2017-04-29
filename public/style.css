@@ -1,0 +1,9 @@
+h1{
+    font-size: 5em;
+    color: red;
+}
+
+body{
+    text-align:  center;
+    background-image: url("/img/dark-bg2.png");
+}
